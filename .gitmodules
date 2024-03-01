@@ -1,9 +1,6 @@
 [submodule "FAST_LIO_ROS2/src/FAST_LIO"]
 	path = FAST_LIO_ROS2/src/FAST_LIO
 	url = https://github.com/Lya-M1RA/FAST_LIO_ROS2.git
-[submodule "Livox_ROS_Driver2"]
-	path = Livox_ROS_Driver2
-	url = https://github.com/Livox-SDK/livox_ros_driver2.git
 [submodule "Livox_SDK2"]
 	path = Livox_SDK2
 	url = https://github.com/Livox-SDK/Livox-SDK2.git
